@@ -1,0 +1,19 @@
+USER STORIES:
+As a user, I want an app that displays my stuff.
+As a user, I want an app that can show me where my stuff is.
+
+
+
+
+USE CASES
+Given a new user, will be able to launch and start the app.
+Given a new user, will be able to create a new account.
+Given a new user, will be able to use location services.
+Given an existing user, will be able to post pictures of my things.
+Given an existing user, will be able to sort pictures by categories.
+Given an existing user, will be able to set the location of the pictures.
+Given an existing user, will be able to view the total quantity of their pictures.
+Given an existing user, will be able to search for specific items in their things.
+Given an existing user, will be able to categorize their things.
+Given an existing user, will be able to set a quantity if they have more than one item for a picture.
+Given an existing user, will be able to view total quantity of items.
