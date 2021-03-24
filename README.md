@@ -14,7 +14,8 @@ The solution to this is an app that you can take pictures of your stuff and orga
 *	Functional 
 *	Fun
 
-
+## Wireframe Sketches
+![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg)
 
 ## Requirements 
 
