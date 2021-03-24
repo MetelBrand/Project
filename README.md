@@ -1,4 +1,4 @@
-## <div color="blue">Table of Contents
+## Table of Contents
 * [Description](#Description)
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Requirements](#Requirements)
@@ -26,7 +26,7 @@ The solution to this is an app that you can take pictures of your stuff and orga
 ![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg "Login Screen")
 ----
 ### <div align="center">Main Screen
-![Main Screen](https://github.com/MetelBrand/Project/blob/main/Main%20Screen.jpg "Main Screen")
+![](https://github.com/MetelBrand/Project/blob/main/Main%20Screen.jpg "Main Screen")
 
 [Back to the Top](#Table-of-Contents)
 
