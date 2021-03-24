@@ -4,13 +4,14 @@
 
 
 
-### Requirements 
+## Requirements 
 
+### UML (User Case Diagram)
 
-
-
+![UML](https://github.com/MetelBrand/Project/blob/main/UML.jpg)
 
 ### Requirements List
+
 Req ID | Requirement | Test Method | Test ID
 --- | --- | --- | ---
 1.1 | The system shall display all the required fields to create an account.| Inspection | 1		
