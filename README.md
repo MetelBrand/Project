@@ -1,7 +1,7 @@
 ## Table of Contents
-* [Description]()
-* [Wireframe Sketches]()
-* [Requirements]()
+* [Description](#Description)
+* [Wireframe Sketches](#Wireframe-Sketches)
+* [Requirements](#Requirements)
 * [Testing](#Testing)
 
 ## Description
@@ -16,7 +16,7 @@ The solution to this is an app that you can take pictures of your stuff and orga
 *	Functional 
 *	Fun
 
-[Back to the Top](Project)
+[Back to the Top](#Table-of-Contents)
 
 ## Wireframe Sketches
 ### Home Screen
@@ -28,7 +28,7 @@ The solution to this is an app that you can take pictures of your stuff and orga
 ### Main Screen
 ![Main Screen](https://github.com/MetelBrand/Project/blob/main/Main%20Screen.jpg "Main Screen")
 
-[Back to the Top](Project)
+[Back to the Top](#Table-of-Contents)
 
 ## Requirements 
 
@@ -80,7 +80,7 @@ Req ID | Requirement | Test Method | Test ID
 4.1.2	| Given authorization, the system shall report the client's location using the browser's location services. | Inspection	| 5
 4.1.3	| The system shall display the user's location on the interface based on the reported location. | Inspection	| 5
 
-[Back to the Top](Project)
+[Back to the Top](#Table-of-Contents)
 
 ### Testing
 Test ID	| Req ID	| Test Procedure	| Current Date
@@ -91,5 +91,5 @@ Test ID	| Req ID	| Test Procedure	| Current Date
 4	3, 3.1, 3.2, 3.3, 3.3.1, 3.4, 3.5 	| Post an item into a new category and a new location	| Not tested	| TBD
 5	4, 4.1, 4.1.1, 4.1.2, 4.1.3	| Find location of the user.	| Not tested	| TBD
 
-[Back to the Top](Project)
+[Back to the Top](#Table-of-Contents)
 
