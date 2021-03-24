@@ -2,9 +2,41 @@
 * Description
 * [Requirements](#Requirements-Main)
 
+## Description
+### Problem Description
+People take too long to sort through their stuff that they do not use every day. They put their stuff into a box and forget about it and when it comes time to either move or to make more space it takes them abnormally long to do it. I believe this is due to a nostalgic effect from not seeing those items they have every day. 
+
+### Solution
+The solution to this is an app that you can take pictures of your stuff and organize it. You will be able to place the pictures in virtual boxes which you can name. You will also be able to move the virtual boxes into location folders that correspond with its physical location.
+
+### Key Objectives:
+*	Simple 
+*	Functional 
+*	Fun
+
 
 
 ## Requirements 
+
+### User Stories
+* As a user, I want an app that displays my stuff.
+* As a user, I want an app that can show me where my stuff is.
+
+
+
+
+### Use Cases
+* Given a new user, will be able to launch and start the app.
+* Given a new user, will be able to create a new account.
+* Given a new user, will be able to use location services.
+* Given an existing user, will be able to post pictures of my things.
+* Given an existing user, will be able to sort pictures by categories.
+* Given an existing user, will be able to set the location of the pictures.
+* Given an existing user, will be able to view the total quantity of their pictures.
+* Given an existing user, will be able to search for specific items in their things.
+* Given an existing user, will be able to categorize their things.
+* Given an existing user, will be able to set a quantity if they have more than one item for a picture.
+* Given an existing user, will be able to view total quantity of items.
 
 ### UML (User Case Diagram)
 
