@@ -1,4 +1,4 @@
-## Table of Contents
+## <div color="blue">Table of Contents
 * [Description](#Description)
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Requirements](#Requirements)
@@ -19,13 +19,13 @@ The solution to this is an app that you can take pictures of your stuff and orga
 [Back to the Top](#Table-of-Contents)
 
 ## Wireframe Sketches
-### Home Screen
+### <div align="center">Home Screen
 ![Home Screen](https://github.com/MetelBrand/Project/blob/main/Home%20Screen.jpg "Home Screen")
 ----
-### Login Screen
+### <div align="center">Login Screen
 ![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg "Login Screen")
 ----
-### Main Screen
+### <div align="center">Main Screen
 ![Main Screen](https://github.com/MetelBrand/Project/blob/main/Main%20Screen.jpg "Main Screen")
 
 [Back to the Top](#Table-of-Contents)
@@ -49,15 +49,15 @@ The solution to this is an app that you can take pictures of your stuff and orga
 * Given an existing user, will be able to set a quantity if they have more than one item for a picture.
 * Given an existing user, will be able to view total quantity of items.
 
-### UML (User Case Diagram)
+### <div align="center">UML (User Case Diagram)
 
 ![UML](https://github.com/MetelBrand/Project/blob/main/UML.jpg)
 
-### Requirements List
+### <div align="center">Requirements List
 
 Req ID | Requirement | Test Method | Test ID
 --- | --- | --- | ---
-[1.1](#1.1) | The system shall display all the required fields to create an account.| Inspection | 1		
+[1.1] | The system shall display all the required fields to create an account.| Inspection | 1		
 1.1.2	| The system shall send an email to the user to confirm that the email is valid. |	Inspection, Test	| 1
 1.2	| The system shall display confirmation of the account created. | Inspection | 1
 2.0 | The system shall allow the user to login.  | Test | 2
@@ -82,7 +82,7 @@ Req ID | Requirement | Test Method | Test ID
 
 [Back to the Top](#Table-of-Contents)
 
-### Testing
+### <div align="center">Testing
 Test ID	| Req ID	| Test Procedure	| Tested? | Date
 --- | --- | --- | --- | ---
 1	| 1, 1.1, 1.1.2, 1.2 | Create an account.	| No	| TBD
