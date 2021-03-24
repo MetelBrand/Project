@@ -57,7 +57,7 @@ The solution to this is an app that you can take pictures of your stuff and orga
 
 Req ID | Requirement | Test Method | Test ID
 --- | --- | --- | ---
-1.1 | The system shall display all the required fields to create an account.| Inspection | 1		
+[1.1](#1.1) | The system shall display all the required fields to create an account.| Inspection | 1		
 1.1.2	| The system shall send an email to the user to confirm that the email is valid. |	Inspection, Test	| 1
 1.2	| The system shall display confirmation of the account created. | Inspection | 1
 2.0 | The system shall allow the user to login.  | Test | 2
@@ -83,13 +83,13 @@ Req ID | Requirement | Test Method | Test ID
 [Back to the Top](#Table-of-Contents)
 
 ### Testing
-Test ID	| Req ID	| Test Procedure	| Current Date
---- | --- | --- | --- 
-1	1, 1.1, 1.1.2, 1.2 | Create an account.	| Not tested	| TBD
-2	2, 2.1, 2.1.1	| Login into your account.	| Not tested	| TBD
-3	2.2, 2.2.1, 2.2.2	| Recover username and password.	| Not tested	| TBD
-4	3, 3.1, 3.2, 3.3, 3.3.1, 3.4, 3.5 	| Post an item into a new category and a new location	| Not tested	| TBD
-5	4, 4.1, 4.1.1, 4.1.2, 4.1.3	| Find location of the user.	| Not tested	| TBD
+Test ID	| Req ID	| Test Procedure	| Tested? | Date
+--- | --- | --- | --- | ---
+1	| 1, 1.1, 1.1.2, 1.2 | Create an account.	| No	| TBD
+2	| 2, 2.1, 2.1.1	| Login into your account.	| No	| TBD
+3	| 2.2, 2.2.1, 2.2.2	| Recover username and password.	| No	| TBD
+4	| 3, 3.1, 3.2, 3.3, 3.3.1, 3.4, 3.5 	| Post an item into a new category and a new location	| No	| TBD
+5	| 4, 4.1, 4.1.1, 4.1.2, 4.1.3	| Find location of the user.	| No	| TBD
 
 [Back to the Top](#Table-of-Contents)
 
