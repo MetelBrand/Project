@@ -1,6 +1,7 @@
 ## Table of Contents
-* Description
-* [Requirements](#Requirements-Main)
+* [Description]()
+* [Wireframe Sketches]()
+* [Requirements]()
 
 ## Description
 ### Problem Description
@@ -14,12 +15,17 @@ The solution to this is an app that you can take pictures of your stuff and orga
 *	Functional 
 *	Fun
 
+[Back to the Top](Project)
+
 ## Wireframe Sketches
-![Home Screen](https://github.com/MetelBrand/Project/blob/main/Home%20Screen.jpg)
+### Home Screen
+![Home Screen](https://github.com/MetelBrand/Project/blob/main/Home%20Screen.jpg "Home Screen")
 ----
-![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg)
+### Login Screen
+![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg "Login Screen")
 ----
-![Main Screen]()
+### Main Screen
+![Main Screen](https://github.com/MetelBrand/Project/blob/main/Main%20Screen.jpg "Main Screen")
 
 ## Requirements 
 
