@@ -15,7 +15,11 @@ The solution to this is an app that you can take pictures of your stuff and orga
 *	Fun
 
 ## Wireframe Sketches
+![Home Screen](https://github.com/MetelBrand/Project/blob/main/Home%20Screen.jpg)
+----
 ![Login Screen](https://github.com/MetelBrand/Project/blob/main/Login%20Screen.jpg)
+----
+![Main Screen]()
 
 ## Requirements 
 
