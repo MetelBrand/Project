@@ -1,11 +1,16 @@
 ## Table of Contents
-* [Requirements](#Requirements)
+Description
+[Requirements](#Requirements-Main)
+
+
+
+### Requirements 
 
 
 
 
 
-##### Requirements List
+### Requirements List
 Req ID | Requirement | Test Method | Test ID
 --- | --- | --- | ---
 1.1 | The system shall display all the required fields to create an account.| Inspection | 1		
@@ -30,3 +35,13 @@ Req ID | Requirement | Test Method | Test ID
 4.1.1	| The System shall request permission to use the user's browser location services if not already granted. | Inspection, Test	| 5
 4.1.2	| Given authorization, the system shall report the client's location using the browser's location services. | Inspection	| 5
 4.1.3	| The system shall display the user's location on the interface based on the reported location. | Inspection	| 5
+
+### Testing
+Test ID	| Req ID	| Test Procedure	| Current Date
+--- | --- | --- | --- 
+1	1, 1.1, 1.1.2, 1.2 | Create an account.	| Not tested	| TBD
+2	2, 2.1, 2.1.1	| Login into your account.	| Not tested	| TBD
+3	2.2, 2.2.1, 2.2.2	| Recover username and password.	| Not tested	| TBD
+4	3, 3.1, 3.2, 3.3, 3.3.1, 3.4, 3.5 	| Post an item into a new category and a new location	| Not tested	| TBD
+5	4, 4.1, 4.1.1, 4.1.2, 4.1.3	| Find location of the user.	| Not tested	| TBD
+
