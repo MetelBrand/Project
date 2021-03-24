@@ -57,7 +57,7 @@ The solution to this is an app that you can take pictures of your stuff and orga
 
 Req ID | Requirement | Test Method | Test ID
 --- | --- | --- | ---
-[1.1] | The system shall display all the required fields to create an account.| Inspection | 1		
+1.1 | The system shall display all the required fields to create an account.| Inspection | 1		
 1.1.2	| The system shall send an email to the user to confirm that the email is valid. |	Inspection, Test	| 1
 1.2	| The system shall display confirmation of the account created. | Inspection | 1
 2.0 | The system shall allow the user to login.  | Test | 2
