@@ -9,7 +9,7 @@ USE CASES
 Given a new user, will be able to launch and start the app.
 Given a new user, will be able to create a new account.
 Given a new user, will be able to use location services.
-Given an existing user, will be able to post pictures of my things.
+Given an existing user, will be able to post pictures of their things.
 Given an existing user, will be able to sort pictures by categories.
 Given an existing user, will be able to set the location of the pictures.
 Given an existing user, will be able to view the total quantity of their pictures.
